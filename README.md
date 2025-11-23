@@ -5,6 +5,10 @@
 > **Author:** Mayuri Jamdar
 >
 > **Last updated:** 23 November 2025
+>
+> A dynamic retail dashboard built as part of the Excel/Data Science course. It visualizes retail performance (orders, returns, and people/customers/staff) to help answer business questions such as revenue trends, return rates, top customers, product-level performance, and more.
+
+Objective: Convert the provided Excel retail data into a clean data model and create an interactive dashboard for exploratory analysis and insights.
 
 ---
 
