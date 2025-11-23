@@ -260,3 +260,8 @@ If you'd like to contribute:
 This project is licensed under the MIT License — adapt as needed.
 
 If you have questions or want the README modified, please tell me which sections to change or share the sample CSVs and I will update the README with tailored ingestion and cleaning commands.
+
+
+
+1)  <img width="362" height="299" alt="image" src="https://github.com/user-attachments/assets/80f222e9-bfb0-4ecd-9990-713f8c12a7e3" />
+
