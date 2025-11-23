@@ -263,5 +263,16 @@ If you have questions or want the README modified, please tell me which sections
 
 
 
-1)  <img width="362" height="299" alt="image" src="https://github.com/user-attachments/assets/80f222e9-bfb0-4ecd-9990-713f8c12a7e3" />
+1)
+    <img width="362" height="299" alt="image" src="https://github.com/user-attachments/assets/80f222e9-bfb0-4ecd-9990-713f8c12a7e3" />
+
+2)
+   <img width="1429" height="620" alt="image" src="https://github.com/user-attachments/assets/7427fb37-d29c-48e7-9aa3-fd897335508b" />
+
+3)
+<img width="322" height="191" alt="image" src="https://github.com/user-attachments/assets/bff2626b-834c-4c3e-aedd-8e44c97de9d2" />
+
+  4)
+  <img width="255" height="209" alt="image" src="https://github.com/user-attachments/assets/3184c695-56cf-421f-a446-133ff83bf782" />
+
 
